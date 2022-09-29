@@ -2,7 +2,7 @@ body {
 	background: #11111;
 }
 
-h1 {
+h1 {  /* KL */
     color: pink;
     text-align: center;
     font-size: 50px;
@@ -11,26 +11,32 @@ h1 {
     margin: 80px 0 0 0;
 }
 
-h2 {
+h2 { /* PE */
     color: black;
     text-align: center;
     font-size: 30px;
-    margin: 0 0 0 0;
+    margin: 0 0 30px 0;
+}
+
+h3 { /* Sections */
+    margin: 30px 0 20px 30px;
+    color: darkblue;
+}
+
+h4 { /* Project */
+    margin: 0 0 0 80px;
+    color: darkcyan;
 }
 
 #role {
     color: white;
     background: blue;
-}
-
-h3 {
-    color: darkblue;
-}
-
-h4 {
-    color: darkcyan;
+    margin: 0 80px 80px 80px;
 }
 
 .description {
+    text-align: center;
     color: pink;
+    margin: 0 80px 80px 80px;
 }
+
