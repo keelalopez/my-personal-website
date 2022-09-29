@@ -2,41 +2,59 @@ body {
 	background: #11111;
 }
 
-h1 {  /* KL */
-    color: pink;
-    text-align: center;
-    font-size: 50px;
-    font-family: ;
-    padding: 0px;
-    margin: 80px 0 0 0;
+img {
+    width: 100%;
+    height: auto;
 }
 
-h2 { /* PE */
-    color: black;
-    text-align: center;
-    font-size: 30px;
-    margin: 0 0 30px 0;
+.coverImg {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.coverH1 {  /* KL */
+    color: orange;
+    font-size: 80px;
+    position: absolute;
+    top: 270px;
+    left: 140px;
+    
+}
+
+.coverH2 { /* PE */
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 360px;
+    left: 140px;
 }
 
 h3 { /* Sections */
     margin: 30px 0 20px 30px;
     color: darkblue;
+    font-size: 26px;
 }
 
 h4 { /* Project */
     margin: 0 80px 0 80px;
     color: darkcyan;
+    font-size: 22px;
 }
 
 #role {
     color: white;
     background: blue;
+    font-size: 18px;
+    text-align: justify;
     margin: 0 80px 80px 80px;
+    padding: 50px 50px 50px 50px;
 }
 
 .description {
-    text-align: center;
+    font-size: 18px;
+    text-align: justify;
     color: black;
-    margin: 0 80px 80px 80px;
+    margin: 0 90px 80px 90px;
 }
 
