@@ -19,5 +19,10 @@ h2 {
 }
 
 #role {
-    color: pink;
+    color: white;
+    background: blue;
+}
+
+h3 {
+    color: darkblue;
 }
