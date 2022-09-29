@@ -14,8 +14,10 @@ img {
 }
 
 .coverH1 {  /* KL */
-    color: orange;
-    font-size: 80px;
+    color: rgb(255, 166, 2);
+    font-size: 75px;
+    background: rgba(255, 255, 255, 0.4);
+    padding: 15px 15px 35px 15px;
     position: absolute;
     top: 270px;
     left: 140px;
@@ -23,11 +25,11 @@ img {
 }
 
 .coverH2 { /* PE */
-    color: white;
+    color: rgb(255, 166, 2);
     font-size: 40px;
     position: absolute;
-    top: 360px;
-    left: 140px;
+    top: 375px;
+    left: 170px;
 }
 
 h3 { /* Sections */
