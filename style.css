@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,600&family=Timmana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300;1,600&family=Lato&family=Open+Sans:wght@300&family=Timmana&display=swap');
 
 body {
 	background: #11111;
@@ -40,27 +40,31 @@ h3 { /* Sections */
     margin: 30px 0 20px 30px;
     color: darkblue;
     font-size: 26px;
+    font-family: 'Lato', sans-serif;
 }
 
 h4 { /* Project */
-    margin: 0 80px 0 80px;
+    margin: 0 90px 0 90px;
     color: darkcyan;
     font-size: 22px;
+    font-family: 'Lato', sans-serif;
 }
 
 #role {
     color: white;
-    background: blue;
+    background: rgb(67, 174, 232);
     font-size: 18px;
     text-align: justify;
-    margin: 0 80px 80px 80px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 80px 80px 80px 80px;
     padding: 50px 50px 50px 50px;
 }
 
 .description {
-    font-size: 18px;
+    font-size: 16px;
     text-align: justify;
     color: black;
     margin: 0 90px 80px 90px;
+    font-family: 'Open Sans', sans-serif;
 }
 
