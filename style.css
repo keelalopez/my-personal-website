@@ -2,6 +2,7 @@
 
 body {
 	background: #11111;
+    
 }
 
 img {
@@ -60,11 +61,20 @@ h4 { /* Project */
     padding: 50px 50px 50px 50px;
 }
 
+.grid-layout {
+    display: grid;
+    grid-template-columns: auto 80%;
+    width: 90%;
+    margin:  0 100px 20px 120px;
+    padding: 20px;
+    
+}
+
 .description {
     font-size: 16px;
     text-align: justify;
     color: black;
-    margin: 0 120px 20px 120px;
+    margin: 0 120px 20px 100px;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -76,3 +86,9 @@ ul {
     font-family: 'Open Sans', sans-serif;
 }
 
+.projectImg {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+}
