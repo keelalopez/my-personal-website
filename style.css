@@ -24,7 +24,7 @@ h3 { /* Sections */
 }
 
 h4 { /* Project */
-    margin: 0 0 0 80px;
+    margin: 0 80px 0 80px;
     color: darkcyan;
 }
 
@@ -36,7 +36,7 @@ h4 { /* Project */
 
 .description {
     text-align: center;
-    color: pink;
+    color: black;
     margin: 0 80px 80px 80px;
 }
 
